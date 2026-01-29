@@ -36,9 +36,9 @@ I am Mahdi bin Iqbal, a junior Python programmer. I like creating simple but use
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahadi99900&show_icons=true&theme=github_dark" alt="mahadi99900's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahadihasan9&show_icons=true&theme=github_dark" alt="mahadi99900's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi99900&layout=compact&theme=github_dark" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasan9&layout=compact&theme=github_dark" alt="Top Langs"/>
 </p>
 
 ---
