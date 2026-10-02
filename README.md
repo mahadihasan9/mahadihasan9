@@ -1,107 +1,253 @@
-#  ___  ___  ___   ___  ___  _   _  ___  ___  ___  ___  ___  
-# |  \/  | / _ \ / _ \/ _ \| | | |/ _ \/ _ \/ _ \/ _ \
-# | |\/| || | | || | | | | | | | | | | | | | | | | | | |
-# | |  | || |_| || |_| | |_| | |_| | |_| | |_| | |_| | |_|
-# |_|  |_| \___/ \___/\___/ \___/ \___/\___/\___/\___/ 
-#
-#                 ___  ___  ___   ___  ___  ___  ___
-#                / _ \/ _ \/ _ \ / _ \/ _ \/ _ \/ _ \
-#               | | | | | | | | | | | | | | | | | | | | |
-#               | |_| | |_| | |_| | |_| | |_| | |_| | |_| |
-#                \___/\___/\___/ \___/\___/\___/\___/
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   ███╗   ███╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ██╗    ██╗                ║
+║   ████╗ ████║██╔══██╗██║  ██║██╔══██╗██╔══██╗██║    ██║                ║
+║   ██╔████╔██║███████║███████║███████║██║  ██║██║ █╗ ██║                ║
+║   ██║╚██╔╝██║██╔══██║██╔══██║██╔══██║██║  ██║██║███╗██║                ║
+║   ██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║██████╔╝╚███╔███╔╝                ║
+║   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚══╝╚══╝                 ║
+║                                                                            ║
+║                    Security • Automation • DevTools                       ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
 
-## Mahdi Bin Iqbal
+<div align="center">
 
-> Python learner • Security enthusiast • Builder of small systems • Curious explorer
+### 🔐 Cybersecurity Enthusiast | Python Developer | Security Researcher
 
-<p align="center">
-  <a href="https://mahdi-bin-iqbal.netlify.app/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-0D9488?style=for-the-badge&logo=firefox-browser" />
-  </a>
-  <a href="mailto:islammdmahadi942@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/mahadihasan9">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mahadihasan9-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-mahadihasan9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahadihasan9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahdi--bin--iqbal.netlify.app-00D4FF?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://mahdi-bin-iqbal.netlify.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-@mahadihasan099-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahadihasan099)
+[![Email](https://img.shields.io/badge/Email-islammdmahadi942%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islammdmahadi942@gmail.com)
+
+</div>
 
 ---
 
-## About Me
+## 🎯 Mission & Expertise
 
-I am Mahdi bin Iqbal, a junior Python developer and technology enthusiast who enjoys building practical tools, experimenting with automation, and learning by hands-on projects. I like solving problems, exploring new ideas, and improving my skills through real-world work.
+> Passionate about discovering vulnerabilities, building security tools, and automating cyber operations. Specialized in network security testing, embedded systems exploitation, and security research.
 
-- 🔭 Currently learning and building: Python, automation, web development, AI concepts
-- 🌱 Focus areas: cybersecurity, scripting, backend ideas, API systems
-- ⚡ Interests: automation, problem solving, tools that make life easier
-- 🧠 Goal: become a stronger developer through consistent learning and smart projects
+<table>
+<tr>
+<td width="50%">
 
----
+### 🖥️ Current Focus
+- 🔍 Network penetration testing
+- 🛡️ Wi-Fi security research
+- ⚙️ Embedded systems security (ESP32)
+- 🤖 Security automation tools
+- 🔐 Cryptography & encryption
 
-## Core Skills
+</td>
+<td width="50%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,linux,git,github,html,css,js,arduino" alt="Skills" />
-</p>
+### 📚 Learning Path
+- Advanced exploitation techniques
+- Wireless security protocols
+- AI/ML in cybersecurity
+- Backend security architecture
+- Cloud security infrastructure
 
-- Python / Flask / FastAPI
-- Automation & scripting
-- Embedded / ESP32 experiments
-- Security-related tools and Wi-Fi testing concepts
-- Linux / Termux / CLI workflows
-- Basic web development and project building
-
----
-
-## Featured Projects
-
-### Security & Network Tools
-- [blue-deauth](https://github.com/mahadihasan9/blue-deauth) — BLE deauthentication tool
-- [ESP32-Deauther](https://github.com/mahadihasan9/ESP32-Deauther) — ESP32 Wi-Fi deauth project
-- [esp32-wifi-penetration-tool](https://github.com/mahadihasan9/esp32-wifi-penetration-tool) — Wi-Fi experimentation and penetration tooling
-- [OneShot](https://github.com/mahadihasan9/OneShot) — WPS PIN attack testing tool
-- [Zygisk-Il2CppDumper](https://github.com/mahadihasan9/Zygisk-Il2CppDumper) — runtime dump experimentation
-
-### Web & App Projects
-- [fastAPI_project](https://github.com/mahadihasan9/fastAPI_project) — modern photo upload/compression service with admin dashboard
-- [Personal-group-chat](https://github.com/mahadihasan9/Personal-group-chat) — lightweight Flask group chat app
-- [Personal-group-chat-pro](https://github.com/mahadihasan9/Personal-group-chat-pro) — real-time chat upgrade with better features
-- [small-video-sharing-website](https://github.com/mahadihasan9/small-video-sharing-website) — protected video gallery app
-- [WoW-game-for-telegram](https://github.com/mahadihasan9/WoW-game-for-telegram) — Telegram RPG bot project
-
-### Automation & Tools
-- [build-apk-in-termux](https://github.com/mahadihasan9/build-apk-in-termux) — APK build workflow in Termux
-- [cloudflared-termux](https://github.com/mahadihasan9/cloudflared-termux) — Cloudflare tunnel setup tooling
-- [cryzen](https://github.com/mahadihasan9/cryzen) — Python encryption library project
-- [hackingtool](https://github.com/mahadihasan9/hackingtool) — all-in-one Hacker toolset
-- [FlagSecurePatcher](https://github.com/mahadihasan9/FlagSecurePatcher) — Android security patch experimentation
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahadihasan9&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasan9&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### **Languages & Frameworks**
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+### **Security & Penetration Testing**
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![WiFi Hacking](https://img.shields.io/badge/WiFi%20Security-FF6B35?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-0066CC?style=for-the-badge)
+
+</div>
+
+### **Tools & Platforms**
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge)
+
+</div>
 
 ---
 
-## Contact & Links
+## 🚀 Featured Security Projects
 
-- 📧 Email: `islammdmahadi942@gmail.com`
-- 📧 Email: `mahdi.bin.iqbal.x1@gmail.com`
-- 🌐 Website: [mahdi-bin-iqbal.netlify.app](https://mahdi-bin-iqbal.netlify.app/)
-- 📍 Location: Savar, Dhaka
-- 💬 Telegram: `@mahadihasan099`
-- 📘 Facebook: [Mahdi Bin Iqbal](https://www.facebook.com/mahdibiniqbal999)
+### 🔴 **Wireless & Network Attack Tools**
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [🔗 ESP32-Deauther](https://github.com/mahadihasan9/ESP32-Deauther) | Wi-Fi deauthentication attack using ESP32 | ⚠️ Educational |
+| [🔗 esp32-wifi-penetration-tool](https://github.com/mahadihasan9/esp32-wifi-penetration-tool) | Comprehensive Wi-Fi penetration testing suite | ⚠️ Research |
+| [🔗 blue-deauth](https://github.com/mahadihasan9/blue-deauth) | Bluetooth Low Energy deauthentication exploit | ⚠️ PoC |
+| [🔗 OneShot](https://github.com/mahadihasan9/OneShot) | WPS PIN attack - Pixie Dust & bruteforce | ⚠️ Active |
+
+### 🛡️ **Security & Reverse Engineering**
+
+| Project | Description | Focus |
+|---------|-------------|-------|
+| [🔗 Zygisk-Il2CppDumper](https://github.com/mahadihasan9/Zygisk-Il2CppDumper) | Runtime il2cpp binary dumping via Zygisk | 🔬 Reverse Eng |
+| [🔗 FlagSecurePatcher](https://github.com/mahadihasan9/FlagSecurePatcher) | Disable Android FLAG_SECURE protection | 🔓 Android Sec |
+| [🔗 cryzen](https://github.com/mahadihasan9/cryzen) | Python encryption/decryption library | 🔐 Crypto |
+
+### 🖥️ **Backend & Web Applications**
+
+| Project | Tech Stack | Purpose |
+|---------|-----------|---------|
+| [🔗 fastAPI_project](https://github.com/mahadihasan9/fastAPI_project) | FastAPI + Secure Admin | Photo service with auth |
+| [🔗 Personal-group-chat-pro](https://github.com/mahadihasan9/Personal-group-chat-pro) | Flask-SocketIO + WebSocket | Real-time secure messaging |
+| [🔗 WoW-game-for-telegram](https://github.com/mahadihasan9/WoW-game-for-telegram) | Telegram Bot API | RPG game framework |
+
+### 🤖 **Automation & Tooling**
+
+| Project | Purpose |
+|---------|---------|
+| [🔗 hackingtool](https://github.com/mahadihasan9/hackingtool) | All-in-one hacker toolkit suite |
+| [🔗 build-apk-in-termux](https://github.com/mahadihasan9/build-apk-in-termux) | Mobile APK building automation |
+| [🔗 cloudflared-termux](https://github.com/mahadihasan9/cloudflared-termux) | Cloudflare tunnel automation for Termux |
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Learning+every+day;Building+practical+projects;Improving+step+by+step" alt="Typing SVG" />
-</p>
+## 📊 GitHub Analytics
 
-> "I am still learning, still building, and still growing — one useful project at a time."
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadihasan9&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&text_color=00D4FF&title_color=FF6B6B&icon_color=00D4FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasan9&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&text_color=00D4FF&title_color=FF6B6B)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mahadihasan9&theme=radical&hide_border=false&background=0D1117)
+
+</div>
+
+---
+
+## 🎓 Knowledge Areas
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Network Security**
+<br>
+WiFi Testing · Packet Analysis · Protocol Analysis · Network Sniffing
+
+</td>
+<td align="center" width="25%">
+
+**Embedded Systems**
+<br>
+ESP32 · Arduino · Firmware · Hardware Hacking
+
+</td>
+<td align="center" width="25%">
+
+**Web Security**
+<br>
+OWASP · API Security · Authentication · Cryptography
+
+</td>
+<td align="center" width="25%">
+
+**Automation**
+<br>
+Python Scripting · Tool Development · CI/CD · DevOps
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Key Achievements
+
+```
+✓ Developed 20+ security & automation tools
+✓ Explored WiFi security & penetration testing
+✓ Built end-to-end encrypted messaging systems
+✓ Created reverse engineering & dumping tools
+✓ Implemented cryptographic libraries
+✓ Automated security testing workflows
+✓ Deployed secure backend systems with FastAPI
+```
+
+---
+
+## 📈 Tech Roadmap
+
+```
+2024-2025 GOALS:
+├─ 🔍 Advanced Penetration Testing Certification
+├─ 🛡️ API Security & Bug Bounty Programs
+├─ 🤖 AI/ML in Cybersecurity Implementation
+├─ ☁️  Cloud Security Infrastructure
+├─ 📱 Mobile Security Research
+└─ 🎯 Contribute to OSS Security Projects
+```
+
+---
+
+## 📞 Connect & Collaborate
+
+<div align="center">
+
+| Platform | Details |
+|----------|---------|
+| 💻 **GitHub** | [@mahadihasan9](https://github.com/mahadihasan9) |
+| 🌐 **Website** | [mahdi-bin-iqbal.netlify.app](https://mahdi-bin-iqbal.netlify.app/) |
+| 📧 **Email** | [islammdmahadi942@gmail.com](mailto:islammdmahadi942@gmail.com) |
+| 💬 **Telegram** | [@mahadihasan099](https://t.me/mahadihasan099) |
+| 📍 **Location** | Savar, Dhaka, Bangladesh 🇧🇩 |
+| 📘 **Facebook** | [Mahdi Bin Iqbal](https://www.facebook.com/mahdibiniqbal999) |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Keep+Learning.+Keep+Building.+Stay+Secure." alt="Typing SVG" />
+
+</div>
+
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║  "The security of a system is determined by its weakest link. Find it."   ║
+║                                                                            ║
+║                   🔐 Explore | 🔍 Discover | 🛡️ Secure 🔐                ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+⭐ Found this useful? Consider giving it a star! | 🔗 Fork • Contribute • Share
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahadihasan9&color=00D4FF&style=for-the-badge)
+
+</div>
