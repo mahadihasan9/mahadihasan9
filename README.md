@@ -74,11 +74,12 @@ These are the projects I created and maintain myself:
 - [my_web](https://github.com/mahadihasan9/my_web) — Personal web project
 - [WoW-game-for-telegram](https://github.com/mahadihasan9/WoW-game-for-telegram) — Telegram RPG game project
 
-### Security & Tools
+### Python library
 - [cryzen](https://github.com/mahadihasan9/cryzen) — Python encryption library project
-- [ESP32TelegramBot](https://github.com/mahadihasan9/ESP32TelegramBot) — Telegram bot for ESP32
 - [Osman_Hadi](https://github.com/mahadihasan9/Osman_Hadi) — Python library
 
+###arduino project
+- [ESP32TelegramBot](https://github.com/mahadihasan9/ESP32TelegramBot) — Telegram bot for ESP32
 ---
 
 ## 📚 Forked / Learning Projects
