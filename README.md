@@ -1,57 +1,107 @@
-# Hi there, I'm Mahdi bin Iqbal 👋
+#  ___  ___  ___   ___  ___  _   _  ___  ___  ___  ___  ___  
+# |  \/  | / _ \ / _ \/ _ \| | | |/ _ \/ _ \/ _ \/ _ \
+# | |\/| || | | || | | | | | | | | | | | | | | | | | | |
+# | |  | || |_| || |_| | |_| | |_| | |_| | |_| | |_| | |_|
+# |_|  |_| \___/ \___/\___/ \___/ \___/\___/\___/\___/ 
+#
+#                 ___  ___  ___   ___  ___  ___  ___
+#                / _ \/ _ \/ _ \ / _ \/ _ \/ _ \/ _ \
+#               | | | | | | | | | | | | | | | | | | | | |
+#               | |_| | |_| | |_| | |_| | |_| | |_| | |_| |
+#                \___/\___/\___/ \___/\___/\___/\___/
 
-> A junior Python programmer who enjoys building small systems, experimenting with automation, and learning something new every day.
+## Mahdi Bin Iqbal
+
+> Python learner • Security enthusiast • Builder of small systems • Curious explorer
 
 <p align="center">
   <a href="https://mahdi-bin-iqbal.netlify.app/">
-    <img alt="Website" src="https://img.shields.io/badge/website-portfolio-blue?style=flat-square">
+    <img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-0D9488?style=for-the-badge&logo=firefox-browser" />
   </a>
   <a href="mailto:islammdmahadi942@gmail.com">
-    <img alt="Mail" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/mahadihasan9">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mahadihasan9-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am Mahdi bin Iqbal, a junior Python programmer. I like creating simple but useful tools and systems while improving my programming skills step by step. I am focused on learning and growing as a developer.
+I am Mahdi bin Iqbal, a junior Python developer and technology enthusiast who enjoys building practical tools, experimenting with automation, and learning by hands-on projects. I like solving problems, exploring new ideas, and improving my skills through real-world work.
 
-| Section | Detail |
-| :--- | :--- |
-| 🔭 **Currently working on** | Student life & self-learning projects |
-| 🌱 **Currently learning** | Web Development, Artificial Intelligence |
-| ⚡ **Interests** | Automation and problem-solving |
-
----
-
-## 🛠️ Skills & Technologies
-
-* **Python:** Junior level
-* **Automation:** Basics
-* **Learning/Exploring:** Web Development, AI concepts
+- 🔭 Currently learning and building: Python, automation, web development, AI concepts
+- 🌱 Focus areas: cybersecurity, scripting, backend ideas, API systems
+- ⚡ Interests: automation, problem solving, tools that make life easier
+- 🧠 Goal: become a stronger developer through consistent learning and smart projects
 
 ---
 
-## 📈 GitHub Stats
+## Core Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahadihasan9&show_icons=true&theme=github_dark" alt="mahadi99900's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasan9&layout=compact&theme=github_dark" alt="Top Langs"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,linux,git,github,html,css,js,arduino" alt="Skills" />
+</p>
+
+- Python / Flask / FastAPI
+- Automation & scripting
+- Embedded / ESP32 experiments
+- Security-related tools and Wi-Fi testing concepts
+- Linux / Termux / CLI workflows
+- Basic web development and project building
+
+---
+
+## Featured Projects
+
+### Security & Network Tools
+- [blue-deauth](https://github.com/mahadihasan9/blue-deauth) — BLE deauthentication tool
+- [ESP32-Deauther](https://github.com/mahadihasan9/ESP32-Deauther) — ESP32 Wi-Fi deauth project
+- [esp32-wifi-penetration-tool](https://github.com/mahadihasan9/esp32-wifi-penetration-tool) — Wi-Fi experimentation and penetration tooling
+- [OneShot](https://github.com/mahadihasan9/OneShot) — WPS PIN attack testing tool
+- [Zygisk-Il2CppDumper](https://github.com/mahadihasan9/Zygisk-Il2CppDumper) — runtime dump experimentation
+
+### Web & App Projects
+- [fastAPI_project](https://github.com/mahadihasan9/fastAPI_project) — modern photo upload/compression service with admin dashboard
+- [Personal-group-chat](https://github.com/mahadihasan9/Personal-group-chat) — lightweight Flask group chat app
+- [Personal-group-chat-pro](https://github.com/mahadihasan9/Personal-group-chat-pro) — real-time chat upgrade with better features
+- [small-video-sharing-website](https://github.com/mahadihasan9/small-video-sharing-website) — protected video gallery app
+- [WoW-game-for-telegram](https://github.com/mahadihasan9/WoW-game-for-telegram) — Telegram RPG bot project
+
+### Automation & Tools
+- [build-apk-in-termux](https://github.com/mahadihasan9/build-apk-in-termux) — APK build workflow in Termux
+- [cloudflared-termux](https://github.com/mahadihasan9/cloudflared-termux) — Cloudflare tunnel setup tooling
+- [cryzen](https://github.com/mahadihasan9/cryzen) — Python encryption library project
+- [hackingtool](https://github.com/mahadihasan9/hackingtool) — all-in-one Hacker toolset
+- [FlagSecurePatcher](https://github.com/mahadihasan9/FlagSecurePatcher) — Android security patch experimentation
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahadihasan9&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasan9&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🤝 Contact & Links
+## Contact & Links
 
-* 📧 **Email:** `islammdmahadi943@gmail.com`
-* 📧 **Email:** `mahdi.bin.iqbal.x1@gmail.com`
-* 🌍 **Website:** [https://mahdi-bin-iqbal.netlify.app/](https://mahdi-bin-iqbal.netlify.app/)
-* 📍 **Location:** Savar, Dhaka
-* 💬 **Telegram:** @mahadihasan099
-* 📘 **Facebook:** [https://www.facebook.com/mahdibiniqbal999](https://www.facebook.com/mahdibiniqbal999)
+- 📧 Email: `islammdmahadi942@gmail.com`
+- 📧 Email: `mahdi.bin.iqbal.x1@gmail.com`
+- 🌐 Website: [mahdi-bin-iqbal.netlify.app](https://mahdi-bin-iqbal.netlify.app/)
+- 📍 Location: Savar, Dhaka
+- 💬 Telegram: `@mahadihasan099`
+- 📘 Facebook: [Mahdi Bin Iqbal](https://www.facebook.com/mahdibiniqbal999)
 
 ---
 
-> This profile represents my learning journey. I am improving every day and looking forward to building better projects in the future 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Learning+every+day;Building+practical+projects;Improving+step+by+step" alt="Typing SVG" />
+</p>
+
+> "I am still learning, still building, and still growing — one useful project at a time."
