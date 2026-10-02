@@ -37,7 +37,7 @@ I am a junior developer focused on **Python, backend development, automation, an
 | Section | Details |
 |---------|---------|
 | 🔭 **Currently learning** | Python, Linux, Docker, FastAPI, backend development |
-| ���� **Interests** | Cybersecurity, automation, embedded systems, penetration testing concepts |
+| **Interests** | Cybersecurity, automation, embedded systems, penetration testing concepts |
 | ⚡ **Goal** | Improve skills by building useful and real projects |
 
 ---
