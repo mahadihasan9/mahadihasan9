@@ -77,11 +77,7 @@ These are the projects I created and maintain myself:
 ### Security & Tools
 - [cryzen](https://github.com/mahadihasan9/cryzen) — Python encryption library project
 - [ESP32TelegramBot](https://github.com/mahadihasan9/ESP32TelegramBot) — Telegram bot for ESP32
-- [Osman_Hadi](https://github.com/mahadihasan9/Osman_Hadi) — Python library project
-- [tmp](https://github.com/mahadihasan9/tmp) — experimental and testing project
-
-### Learning / Practice
-- [mahadihasan9](https://github.com/mahadihasan9/mahadihasan9) — Profile repository and personal learning space
+- [Osman_Hadi](https://github.com/mahadihasan9/Osman_Hadi) — Python library
 
 ---
 
